@@ -26,4 +26,4 @@ cũng là ngày tận thế của thế giới. Theo tính toán, thời gian ng
 mất 42 lần tuổi của vũ trụ hiện nay! Thế nên ta có thể yên tâm là còn
 lâu họ mới hoàn thành công việc đó.
 </br>
-![Hình tháp Hà Nội](/photo/thap-ha-noi-01.jpeg){:class="img-responsive"}
+![Hình tháp Hà Nội](/photo/thap-ha-noi-01.jpg){:class="img-responsive"}
