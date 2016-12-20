@@ -29,6 +29,6 @@ mất 42 lần tuổi của vũ trụ hiện nay! Thế nên ta có thể yên t
 lâu họ mới hoàn thành công việc đó.
 <br />
 <br />
-<img src="/photo/thap-ha-noi-01.jpg" alt="hanoitower" style="width: 300px;"/>
-<img src="/photo/thap-ha-noi-02.jpg" alt="hanoitower" style="width: 300px;"/>
+<img src="/photo/thap-ha-noi-01.jpg" alt="hanoitower" style="height: 300px;"/>
+<img src="/photo/thap-ha-noi-02.jpg" alt="hanoitower" style="height: 300px;"/>
 <!--![hanoitower](/photo/thap-ha-noi-01.jpg)-->
