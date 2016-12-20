@@ -29,4 +29,4 @@ mất 42 lần tuổi của vũ trụ hiện nay! Thế nên ta có thể yên t
 lâu họ mới hoàn thành công việc đó.
 <br />
 <br />
-![Hình tháp Hà Nội](/photo/thap-ha-noi-02.jpg =100x){:class="img-responsive"}
+![Hình tháp Hà Nội](/photo/thap-ha-noi-02.jpg =10x){:class="img-responsive"}
