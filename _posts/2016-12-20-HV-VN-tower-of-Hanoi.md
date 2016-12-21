@@ -3,7 +3,6 @@ layout: post
 title: "HV, VN, tower of Hanoi"
 date: 2016-12-20
 ---
-{{ page.title | slugify }}/{{ include.name }}
 
 Có một trò chơi nổi tiếng mà các mẹ có thể cho các bé mầm nhà mình chơi
 thử. Đó là trò chơi "tháp Hà Nội". Đây là trò chơi được Pháp phổ biến ra
@@ -33,5 +32,4 @@ lâu họ mới hoàn thành công việc đó.
 <img src="/photo/thap-ha-noi-01.jpg" alt="hanoitower" style="height: 300px;"/>
 <img src="/photo/thap-ha-noi-02.jpg" alt="hanoitower" style="height: 300px;"/>
 
-![hanoitower]({{site.baseurl}}/photo/thap-ha-noi-01.jpg)
-{% include image name="thap-ha-noi-01.jpg" caption="thaphanoi"%}
+<!--![hanoitower](/photo/thap-ha-noi-01.jpg)-->
