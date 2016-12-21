@@ -3,6 +3,7 @@ layout: post
 title: "HV, VN, tower of Hanoi"
 date: 2016-12-20
 ---
+{{ page.title | slugify }}/{{ include.name }}
 
 Có một trò chơi nổi tiếng mà các mẹ có thể cho các bé mầm nhà mình chơi
 thử. Đó là trò chơi "tháp Hà Nội". Đây là trò chơi được Pháp phổ biến ra
