@@ -33,5 +33,5 @@ lâu họ mới hoàn thành công việc đó.
 <img src="/photo/thap-ha-noi-01.jpg" alt="hanoitower" style="height: 300px;"/>
 <img src="/photo/thap-ha-noi-02.jpg" alt="hanoitower" style="height: 300px;"/>
 
-![hanoitower]({{site.url}}/photo/thap-ha-noi-01.jpg)
+![hanoitower]({{site.baseurl}}/photo/thap-ha-noi-01.jpg)
 {% include image name="thap-ha-noi-01.jpg" caption="thaphanoi"%}
