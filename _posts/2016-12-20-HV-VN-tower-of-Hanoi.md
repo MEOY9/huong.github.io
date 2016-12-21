@@ -33,4 +33,4 @@ lâu họ mới hoàn thành công việc đó.
 <img src="/photo/thap-ha-noi-02.jpg" alt="hanoitower" style="height: 300px;"/>
 
 <!--![hanoitower](/photo/thap-ha-noi-01.jpg)-->
-![hanoitower]({% asset_path thap-ha-noi-01.jpg %})
+![hanoitower]({% asset_path thap-ha-noi.jpg %})
