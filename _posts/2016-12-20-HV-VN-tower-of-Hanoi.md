@@ -30,6 +30,6 @@ lâu họ mới hoàn thành công việc đó.
 <br />
 <br />
 <img src="/assets/posts/2016-12-20-HV-VN-tower-of-Hanoi/thap-ha-noi-01.jpg" alt="hanoitower" style="height: 300px;"/>
-<img src="/photo/thap-ha-noi-02.jpg" alt="hanoitower" style="height: 300px;"/>
-
-<!--![hanoitower](/photo/thap-ha-noi-01.jpg)-->
+<img src="/assets/posts/2016-12-20-HV-VN-tower-of-Hanoi/thap-ha-noi-02.jpg" alt="hanoitower" style="height: 300px;"/>
+<!--<img src="/photo/thap-ha-noi-02.jpg" alt="hanoitower" style="height: 300px;"/>
+![hanoitower](/photo/thap-ha-noi-01.jpg)-->
